@@ -1,4 +1,4 @@
-# CoCreateJS - Build Web Apps in 90% less time
+# Build Web Apps in 90% less time
 - "Full-Scale, Full-Featured Web Apps in a Fraction of the Time, With Zero Lock-In."
 
 ## Effortlessly go From Design to Web App
