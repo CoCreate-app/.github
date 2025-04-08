@@ -2,7 +2,7 @@
 - "Full-Scale, Full-Featured Web Apps in a Fraction of the Time, With Zero Lock-In."
 
 ## Effortlessly go From Design to Web App
-- "Unleash full-scale, full-featured web applications directly from the design phase using only HTML and CSS. Our HTML5 API is as potent as any JavaScript API, enabling the rapid deployment of distributed, on the edge, offline-first, mobile installable web apps, eliminating the need for software engineers. With AI integration, effortlessly generate design elements with CoCreate attributes. It offers both designers and non-designers an efficient way to generate dynamic web elements."
+- "Unleash full-scale, full-featured web applications directly from the design phase using only HTML and CSS. Our HTML5 API is as potent as any JavaScript API, enabling the rapid deployment of distributed, on the edge, offline-first, mobile installable web apps, eliminating the need for software engineers. With AI Integration, you can now automate key website and web app functionalities such as generating engaging blog content, enabling interactive web chats, and more by simply adding custom HTML attributes."
 
 ## Own Your Data and Designs, Zero Lock-In
 - "With CoCreate, you're in full control of your data and designs. Your data where you want it, and how you want it structured. Remove CoCreate attributes anytime to repurpose your design and database for custom software, utilizing your original CoCreate design as an interactive fully functional blueprint. Alternatively, you can continue to use CoCreate for production, maintaining the lowest possible overhead."
